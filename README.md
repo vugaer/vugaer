@@ -1,38 +1,75 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Vugar Dunyamaliyev</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vugaer&label=Profile%20views&color=0e75b6&style=flat" alt="vugaer" /> </p>
+# 👋 Hi, I'm Vugar Dunyamaliyev
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vugaer&theme=dracula" alt="vugaer" /></a> </p>
+🎓 **Petroleum Engineering Student** at **Baku Higher Oil School**  
+🤖 **Machine Learning & Artificial Intelligence Enthusiast**  
+🛢️ Focused on **AI-driven solutions for Petroleum Engineering**  
+🐍 Python Developer
 
-<div> <a href="https://www.linkedin.com/in/vugar-dunyamaliyev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/vugaer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vugar-dunyamaliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="vugar-dunyamaliyev" height="30" width="40" /></a><a href="https://www.hackerrank.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="username" height="30" width="40" /></a><a href="https://www.youtube.com/c/drillica" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="drillica" height="30" width="40" /></a><a href="https://kaggle.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="username" height="30" width="40" /></a></p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
-<img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+## 🚀 About Me
+
+I am a petroleum engineering student with a strong interest in applying **machine learning and artificial intelligence** to solve complex problems in the **oil & gas industry**.  
+My work focuses on building **data-driven, efficient, and scalable solutions** for engineering challenges such as:
+
+- Reservoir characterization  
+- Production optimization  
+- Well performance analysis  
+- Data analytics for subsurface engineering  
+
+I enjoy combining **engineering fundamentals** with **modern AI techniques** to bridge the gap between traditional petroleum engineering and digital transformation.
+
+---
+
+## 🧠 Areas of Interest
+
+- Machine Learning & Deep Learning  
+- Artificial Intelligence in Energy Systems  
+- Data Science for Petroleum Engineering  
+- Reservoir & Production Data Analysis  
+- Engineering Optimization Problems  
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### Domains
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0A0A0A?style=for-the-badge)
+![Petroleum Engineering](https://img.shields.io/badge/Petroleum%20Engineering-8B0000?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="165"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vugaer&layout=compact&theme=" alt=vugaer />
+---
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vugaer&show_icons=true&locale=en&theme=" alt="vugaer" /></p>
+## 📌 Current Focus
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vugaer&theme=gruvbox" alt="vugaer" /></p>
+- Developing ML models for petroleum engineering applications  
+- Improving skills in data-driven engineering analysis  
+- Exploring real-world AI use cases in the energy sector  
 
+---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 📫 Contact & Profiles
+
+- 📧 Email: *your.email@example.com*  
+- 💼 LinkedIn: *add your LinkedIn here*  
+- 🌍 GitHub: *you are here*  
+
+---
+
+⭐ *Driven by curiosity, engineering discipline, and the power of artificial intelligence.*
