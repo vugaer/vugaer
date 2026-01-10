@@ -2,6 +2,10 @@
 
 ###
 
+My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence, spesifically in the application of Drilling Engineering.
+
+###
+
 <h2 align="center">Programming Stack</h2>
 
 ###
@@ -15,7 +19,7 @@
   <img width="14" />
   <img src="https://cdn.simpleicons.org/jupyter/ffffff" height="48" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/mathworks/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/matlab/ffffff" height="48" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/anaconda/ffffff" height="48" />
   <img width="14" />
