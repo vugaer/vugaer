@@ -1,73 +1,119 @@
-# 👋 Hi, I'm Vugar Dunyamaliyev
+<h1 align="center">👋 Salam!</h1>
 
-🎓 **Petroleum Engineering Student** at **Baku Higher Oil School**  
-🤖 Machine Learning & Artificial Intelligence  
-🛢️ AI Applications in Petroleum Engineering  
-🐍 Python Developer
+###
 
----
+<h2 align="center">Programming Stack</h2>
 
-## 🚀 About Me
+###
 
-I am a petroleum engineering student focused on applying **machine learning and artificial intelligence** to real-world **oil & gas engineering problems**.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+</div>
 
-My interests lie at the intersection of **engineering fundamentals**, **data-driven modeling**, and **computational intelligence**, aiming to improve efficiency, decision-making, and optimization in energy systems.
+###
 
----
+<h3 align="center">CLI Stuff</h3>
 
-## 🛠️ Tech Stack
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/Plotly-000000?style=flat&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+</div>
 
----
+###
 
-## 💻 Operating Systems
+<h3 align="center">Socials</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fedora-000000?style=flat&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=white"/>
-</p>
+###
 
----
+<div align="center">
+  <a href="http://youtube.com/@drillica" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="hackerrankurl.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://discord.com/users/vugaer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vugar-dunyamaliyev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:vugar.dunyamaliyev@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-## 📊 GitHub Stats
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" height="165"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vugaer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
+###
 
-## 📌 Current Focus
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vugaer/vugaer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vugaer/vugaer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vugaer/vugaer/output/pacman-contribution-graph.svg">
+</picture>
 
-- Machine learning models for petroleum engineering data  
-- Data engineering pipelines for engineering analytics  
-- AI-based optimization and prediction problems  
+###
 
----
+<img src="https://raw.githubusercontent.com/vugaer/vugaer/output/snake.svg" alt="Snake animation" />
 
-## 📫 Contact
+###
 
-- 📧 Email: *your.email@example.com*  
-- 💼 LinkedIn: *add your LinkedIn here*  
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
----
-
-⭐ *Engineering discipline powered by data and artificial intelligence.*
+###
