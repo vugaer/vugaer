@@ -45,7 +45,7 @@
   <img width="14" />
   <img src="https://cdn.simpleicons.org/windows/ffffff" height="38" />
   <img width="14" />
-  <img src="https://simpleicons.org/icons/archlinux.svg" height="38" />
+  <img src="https://cdn.simpleicons.org/archlinux/ffffff" height="38" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/trello/ffffff" height="38" />
   <img width="14" />
