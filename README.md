@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="center">CLI Stuff</h3>
+<h3 align="center">Others</h3>
 
 ###
 
@@ -75,22 +75,27 @@
 ###
 
 <div align="center">
-  <a href="http://youtube.com/@drillica" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.youtube.com/@drillica" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" />
   </a>
-  <a href="hackerrankurl.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+
+  <a href="https://leetcode.com/u/vugaer/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28" />
   </a>
-  <a href="https://discord.com/users/vugaer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+
+  <a href="https://www.kaggle.com/vugaer" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/vugar-dunyamaliyev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+  <a href="https://discord.com/users/1204800348011896962" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" />
   </a>
-  <a href="mailto:vugar.dunyamaliyev@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+
+  <a href="https://www.linkedin.com/in/vugar-dunyamaliyev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
 </div>
+
 
 ###
 
@@ -100,20 +105,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vugaer/vugaer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vugaer/vugaer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vugaer/vugaer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <img src="https://raw.githubusercontent.com/vugaer/vugaer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
