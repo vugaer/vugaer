@@ -7,33 +7,33 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/python/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/pandas/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/numpy/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/jupyter/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/mathworks/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/anaconda/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/vim/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/gnubash/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/tensorflow/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/pytorch/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/opencv/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/mongodb/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/kaggle/ffffff" height="48" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="48" />
 </div>
 
 ###
@@ -42,30 +42,32 @@
 
 ###
 
+<h3 align="center">Others</h3>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img src="https://cdn.simpleicons.org/wordpress/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/windows/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/ubuntu/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/trello/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/slack/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/fedora/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/docker/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/figma/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/git/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/linux/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/notion/ffffff" height="38" />
 </div>
 
 ###
