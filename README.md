@@ -1,75 +1,73 @@
 # 👋 Hi, I'm Vugar Dunyamaliyev
 
 🎓 **Petroleum Engineering Student** at **Baku Higher Oil School**  
-🤖 **Machine Learning & Artificial Intelligence Enthusiast**  
-🛢️ Focused on **AI-driven solutions for Petroleum Engineering**  
+🤖 Machine Learning & Artificial Intelligence  
+🛢️ AI Applications in Petroleum Engineering  
 🐍 Python Developer
 
 ---
 
 ## 🚀 About Me
 
-I am a petroleum engineering student with a strong interest in applying **machine learning and artificial intelligence** to solve complex problems in the **oil & gas industry**.  
-My work focuses on building **data-driven, efficient, and scalable solutions** for engineering challenges such as:
+I am a petroleum engineering student focused on applying **machine learning and artificial intelligence** to real-world **oil & gas engineering problems**.
 
-- Reservoir characterization  
-- Production optimization  
-- Well performance analysis  
-- Data analytics for subsurface engineering  
-
-I enjoy combining **engineering fundamentals** with **modern AI techniques** to bridge the gap between traditional petroleum engineering and digital transformation.
-
----
-
-## 🧠 Areas of Interest
-
-- Machine Learning & Deep Learning  
-- Artificial Intelligence in Energy Systems  
-- Data Science for Petroleum Engineering  
-- Reservoir & Production Data Analysis  
-- Engineering Optimization Problems  
+My interests lie at the intersection of **engineering fundamentals**, **data-driven modeling**, and **computational intelligence**, aiming to improve efficiency, decision-making, and optimization in energy systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Plotly-000000?style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
+</p>
 
-### Domains
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0A0A0A?style=for-the-badge)
-![Petroleum Engineering](https://img.shields.io/badge/Petroleum%20Engineering-8B0000?style=for-the-badge)
+---
+
+## 💻 Operating Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fedora-000000?style=flat&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vugaer&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vugaer&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" height="165"/>
 </p>
 
 ---
 
 ## 📌 Current Focus
 
-- Developing ML models for petroleum engineering applications  
-- Improving skills in data-driven engineering analysis  
-- Exploring real-world AI use cases in the energy sector  
+- Machine learning models for petroleum engineering data  
+- Data engineering pipelines for engineering analytics  
+- AI-based optimization and prediction problems  
 
 ---
 
-## 📫 Contact & Profiles
+## 📫 Contact
 
 - 📧 Email: *your.email@example.com*  
 - 💼 LinkedIn: *add your LinkedIn here*  
-- 🌍 GitHub: *you are here*  
 
 ---
 
-⭐ *Driven by curiosity, engineering discipline, and the power of artificial intelligence.*
+⭐ *Engineering discipline powered by data and artificial intelligence.*
