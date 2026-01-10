@@ -19,7 +19,7 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
   <img width="14" />
   <img src="https://cdn.simpleicons.org/jupyter/ffffff" height="48" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/matlab/ffffff" height="48" />
+  <img src="https://static.igem.wiki/teams/4113/wiki/wiki-image/index-image/sponsors8.png" height="48" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/anaconda/ffffff" height="48" />
   <img width="14" />
