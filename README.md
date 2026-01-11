@@ -1,5 +1,13 @@
 <p align="center">
   <img 
+    src="https://media.licdn.com/dms/image/v2/D4E16AQEDL1--qNHE9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728829181678?e=1769644800&v=beta&t=SRg6GQV3-KbFbfeNVUvODuSSxzAy_U6U4mkWh39J0gQ"
+    alt="Header Background"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
     src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif"
     alt="👋 Waving Hand"
     width="80"
