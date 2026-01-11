@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=36&duration=2000&color=008800&center=true&vCenter=true&width=500&lines=Howdy!;Salam!;Hallo!;Ciao!"
+    src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=36&duration=2000&center=true&vCenter=true&width=500&lines=Howdy!;Salam!;Hallo!;Ciao!"
     alt="Typing greetings"
   />
 </p>
@@ -24,47 +24,45 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/python/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/pandas/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/pandas/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/numpy/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/numpy/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/jupyter/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/jupyter/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/octave/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/octave/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/anaconda/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/anaconda/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/docker/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/docker/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/vim/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/vim/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/gnubash/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/gnubash/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/tensorflow/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/tensorflow/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/pytorch/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/pytorch/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/opencv/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/opencv/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/mongodb/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/mongodb/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/postgresql/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/postgresql/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/scipy/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/scipy/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/plotly/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/plotly/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/git/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/git/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/archlinux/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/archlinux/36BCF7FF" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/notion/008800" height="40" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/mathworks/008800" height="40" />
+  <img src="https://cdn.simpleicons.org/notion/36BCF7FF" height="40" />
 </div>
 
 ###
