@@ -6,12 +6,12 @@
   />
 </p>
 
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=36&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Salam!;Howdy!;Hallo!;Ciao!" 
-    alt="Typing greeting"
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=36&duration=2000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Howdy!;Salam!;Hallo!;Ciao!"
+    alt="Typing greetings"
   />
-</h1>
+</p>
 
 ###
 
