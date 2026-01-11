@@ -1,4 +1,9 @@
-<h1 align="center">👋 Salam!</h1>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=36&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=👋+Salam!;👋+Howdy!;👋+Hallo!;👋+Ciao!" 
+    alt="Typing greeting"
+  />
+</h1>
 
 ###
 
