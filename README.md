@@ -35,8 +35,6 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
   <img width="14" />
   <img src="https://cdn.simpleicons.org/mongodb/ffffff" height="48" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/kaggle/ffffff" height="48" />
-  <img width="14" />
   <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="48" />
 </div>
 
