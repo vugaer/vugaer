@@ -80,6 +80,10 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="28" />
   </a>
 
+  <a href="https://www.linkedin.com/in/vugar-dunyamaliyev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+
   <a href="https://www.kaggle.com/vugaer" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28" />
   </a>
@@ -87,15 +91,11 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
   <a href="https://discord.com/users/1204800348011896962" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" />
   </a>
-
-  <a href="https://www.linkedin.com/in/vugar-dunyamaliyev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
 </div>
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vugaer&theme=dark&card_width=985" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vugaer&theme=telegram-gradient&card_width=650)](https://git.io/streak-stats)
 
 ###
 
@@ -103,4 +103,6 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vugaer&theme=blue-green&mode=weekly&card_width=750)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEDL1--qNHE9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728829181678?e=1769644800&v=beta&t=SRg6GQV3-KbFbfeNVUvODuSSxzAy_U6U4mkWh39J0gQ" alt="Banner" />
+</p>
