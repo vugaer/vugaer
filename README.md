@@ -19,7 +19,7 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 
 ###
 
-<h2 align="center">ML Stack</h2>
+<h2 align="center">My Stack</h2>
 
 ###
 
@@ -59,6 +59,10 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
   <img src="https://cdn.simpleicons.org/plotly/ffffff" height="40" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/git/ffffff" height="40" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/archlinux/ffffff" height="40" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/notion/ffffff" height="40" />
 </div>
 
 ###
