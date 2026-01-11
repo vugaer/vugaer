@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=36&duration=2000&center=true&vCenter=true&width=500&lines=Howdy!;Salam!;Hallo!;Ciao!"
+    src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=40&duration=4000&center=true&vCenter=true&width=500&lines=Howdy!;Salam!;Hallo!;Ciao!"
     alt="Typing greetings"
   />
 </p>
