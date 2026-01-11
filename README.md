@@ -24,47 +24,47 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python" height="40" />
+  <img src="https://cdn.simpleicons.org/python/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/pandas" height="40" />
+  <img src="https://cdn.simpleicons.org/pandas/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/numpy" height="40" />
+  <img src="https://cdn.simpleicons.org/numpy/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/jupyter" height="40" />
+  <img src="https://cdn.simpleicons.org/jupyter/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/octave" height="40" />
+  <img src="https://cdn.simpleicons.org/octave/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/anaconda" height="40" />
+  <img src="https://cdn.simpleicons.org/anaconda/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/docker" height="40" />
+  <img src="https://cdn.simpleicons.org/docker/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/vim" height="40" />
+  <img src="https://cdn.simpleicons.org/vim/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/gnubash" height="40" />
+  <img src="https://cdn.simpleicons.org/gnubash/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/tensorflow" height="40" />
+  <img src="https://cdn.simpleicons.org/tensorflow/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/pytorch" height="40" />
+  <img src="https://cdn.simpleicons.org/pytorch/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/opencv" height="40" />
+  <img src="https://cdn.simpleicons.org/opencv/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/mongodb" height="40" />
+  <img src="https://cdn.simpleicons.org/mongodb/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/postgresql" height="40" />
+  <img src="https://cdn.simpleicons.org/postgresql/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/scipy" height="40" />
+  <img src="https://cdn.simpleicons.org/scipy/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/scikitlearn" height="40" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/plotly" height="40" />
+  <img src="https://cdn.simpleicons.org/plotly/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/git" height="40" />
+  <img src="https://cdn.simpleicons.org/git/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/archlinux" height="40" />
+  <img src="https://cdn.simpleicons.org/archlinux/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/notion" height="40" />
+  <img src="https://cdn.simpleicons.org/notion/008800" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/mathworks" height="40" />
+  <img src="https://cdn.simpleicons.org/mathworks/008800" height="40" />
 </div>
 
 ###
