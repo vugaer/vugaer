@@ -60,7 +60,6 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
   <img src="https://cdn.simpleicons.org/notion/ffffff" height="38" />
 </div>
 
-
 ###
 
 <h3 align="center">Socials</h3>
@@ -88,7 +87,6 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
 </div>
-
 
 ###
 
