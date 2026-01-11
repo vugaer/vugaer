@@ -103,7 +103,9 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 
 ###
 
-<img src="https://raw.githubusercontent.com/vugaer/vugaer/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vugaer/vugaer/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
