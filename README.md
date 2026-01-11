@@ -1,6 +1,14 @@
+<p align="center">
+  <img 
+    src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif"
+    alt="👋 Waving Hand"
+    width="80"
+  />
+</p>
+
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=36&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=👋+Salam!;👋+Howdy!;👋+Hallo!;👋+Ciao!" 
+    src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=36&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Salam!;Howdy!;Hallo!;Ciao!" 
     alt="Typing greeting"
   />
 </h1>
