@@ -44,10 +44,9 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
   <img src="https://cdn.simpleicons.org/scikitlearn/ffffff" height="40" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/plotly/ffffff" height="40" />
-  <img src="https://cdn.simpleicons.org/git/ffffff" height="38" />
   <img width="14" />
+  <img src="https://cdn.simpleicons.org/git/ffffff" height="40" />
 </div>
-
 
 ###
 
