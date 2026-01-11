@@ -50,24 +50,6 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 
 ###
 
-<h2 align="center">Hobbies </h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/wordpress/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/archlinux/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/ubuntu/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/fedora/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/notion/ffffff" height="38" />
-</div>
-
-###
-
 <h2 align="center">Socials</h2>
 
 ###
