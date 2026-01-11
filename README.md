@@ -6,41 +6,48 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 
 ###
 
-<h2 align="center">Programming Stack</h2>
+<h2 align="center">ML Stack</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/python/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/pandas/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/pandas/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/numpy/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/numpy/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/jupyter/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/jupyter/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/octave/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/octave/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/anaconda/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/anaconda/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/vim/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/vim/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/gnubash/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/gnubash/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/tensorflow/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/tensorflow/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/pytorch/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/pytorch/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/opencv/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/opencv/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/mongodb/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/mongodb/ffffff" height="40" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="48" />
+  <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="40" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/scipy/ffffff" height="40" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/ffffff" height="40" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/plotly/ffffff" height="40" />
 </div>
+
 
 ###
 
-<h3 align="center">Others</h3>
+<h2 align="center">Others</h2>
 
 ###
 
@@ -62,7 +69,7 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 
 ###
 
-<h3 align="center">Socials</h3>
+<h2 align="center">Socials</h2>
 
 ###
 
