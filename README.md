@@ -95,7 +95,11 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vugaer&theme=telegram-gradient&card_width=650)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vugaer&theme=telegram-gradient&card_width=650" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ###
 
