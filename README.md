@@ -42,28 +42,24 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
 
 <h3 align="center">Others</h3>
 
+###
+
 <div align="center">
+  <img src="https://cdn.simpleicons.org/git/ffffff" height="38" />
+  <img width="14" />
   <img src="https://cdn.simpleicons.org/wordpress/ffffff" height="38" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/windows/ffffff" height="38" />
+  <img src="https://cdn.simpleicons.org/docker/ffffff" height="38" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/archlinux/ffffff" height="38" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/trello/ffffff" height="38" />
+  <img src="https://cdn.simpleicons.org/ubuntu/ffffff" height="38" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/fedora/ffffff" height="38" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/slack/ffffff" height="38" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/fedora/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/docker/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/figma/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/git/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/linux/ffffff" height="38" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/notion/ffffff" height="38" />
 </div>
