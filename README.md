@@ -23,6 +23,8 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
   <img width="14" />
   <img src="https://cdn.simpleicons.org/anaconda/ffffff" height="40" />
   <img width="14" />
+  <img src="https://cdn.simpleicons.org/docker/ffffff" height="40" />
+  <img width="14" />
   <img src="https://cdn.simpleicons.org/vim/ffffff" height="40" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/gnubash/ffffff" height="40" />
@@ -42,21 +44,19 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
   <img src="https://cdn.simpleicons.org/scikitlearn/ffffff" height="40" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/plotly/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/git/ffffff" height="38" />
+  <img width="14" />
 </div>
 
 
 ###
 
-<h2 align="center">Others</h2>
+<h2 align="center">Hobbies </h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/git/ffffff" height="38" />
-  <img width="14" />
   <img src="https://cdn.simpleicons.org/wordpress/ffffff" height="38" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/docker/ffffff" height="38" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/archlinux/ffffff" height="38" />
   <img width="14" />
