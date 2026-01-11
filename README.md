@@ -64,6 +64,11 @@ My name is Vugar Dunyamaliyev. I am currently working on Artificial Intelligence
   <img src="https://cdn.simpleicons.org/notion/ffffff" height="38" />
 </div>
 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/windows.svg" height="38" style="filter: invert(1);" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/slack.svg" height="38" style="filter: invert(1);" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/adobephotoshop.svg" height="38" style="filter: invert(1);" />
+
+
 ###
 
 <h3 align="center">Socials</h3>
